@@ -27,7 +27,7 @@ pip install notebook
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/Digit-Recognizer-CNN.git
+    git clone https://github.com/ganayasser/Digit-Recognizer-CNN.git
     cd Digit-Recognizer-CNN
     ```
 
